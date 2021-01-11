@@ -5,6 +5,6 @@
 
 </head>
 <body>
-<h1>merahbsbasbabfbgfsagbjofnogdnfoıdf</h1>
+<?php echo "merhaba";
 </body>
 </html>
